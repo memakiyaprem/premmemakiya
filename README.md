@@ -15,7 +15,7 @@ Results-driven Web Developer with over **3 years of experience** specializing in
 
 ## 📌 Featured Projects
 ### 🌐 WordPress Development
-🔗 [Frenchy's Wood Fired](https://frenchyswoodfired.com/) | 🔗 [Aestheticlane](https://aestheticlane.com/) | 🔗 [Doodle Lovin](https://doodlelovin.com/) | 🔗 [Everlasting Home Solutions](https://everlastinghomesolutions.com/) | 🔗 [Little Fin Seafood](https://littlefinseafood.com/) | 🔗 [GitHub Repository](https://pear.health/) | 🔗 [Valley Agencies](https://valleyagencies.com/) | 🔗 [Forza](https://forzablack.ky/) | 🔗 [Maandigital Solutions](https://maandigitalsolutions.com/) | 🔗 [Developer](https://shopifyexpertdeveloper.com/) | 🔗 [Mumbadeviveyhicles](https://mumbadeviveyhicles.com/) 
+🔗 [Frenchy's Wood Fired](https://frenchyswoodfired.com/) | 🔗 [Aestheticlane](https://aestheticlane.com/) | 🔗 [Doodle Lovin](https://doodlelovin.com/) </br> 🔗 [Everlasting Home Solutions](https://everlastinghomesolutions.com/) | 🔗 [Little Fin Seafood](https://littlefinseafood.com/) | 🔗 [Pear Health](https://pear.health/) </br> 🔗 [Valley Agencies](https://valleyagencies.com/) | 🔗 [Forza](https://forzablack.ky/) | 🔗 [Maandigital Solutions](https://maandigitalsolutions.com/) </br>  🔗 [Developer](https://shopifyexpertdeveloper.com/) | 🔗 [Mumbadeviveyhicles](https://mumbadeviveyhicles.com/) 
 
 - Successfully completed **70+ WordPress projects**, including theme customization and plugin development.  
 - Specialized in creating **high-performance, SEO-friendly websites** for various industries.  
