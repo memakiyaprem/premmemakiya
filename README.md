@@ -14,43 +14,23 @@ Results-driven Web Developer with over **3 years of experience** specializing in
 ---
 
 ## 📌 Featured Projects
+### 🌐 WordPress Development
+🔗 [Frenchy's Wood Fired](https://frenchyswoodfired.com/) | 🔗 [Aestheticlane](https://aestheticlane.com/) | 🔗 [Doodle Lovin](https://doodlelovin.com/) | 🔗 [Everlasting Home Solutions](https://everlastinghomesolutions.com/) | 🔗 [Little Fin Seafood](https://littlefinseafood.com/) | 🔗 [GitHub Repository](https://pear.health/) | 🔗 [Valley Agencies](https://valleyagencies.com/) | 🔗 [Forza](https://forzablack.ky/) | 🔗 [Maandigital Solutions](https://maandigitalsolutions.com/) | 🔗 [Developer](https://shopifyexpertdeveloper.com/) | 🔗 [Mumbadeviveyhicles](https://mumbadeviveyhicles.com/) 
 
+- Successfully completed **70+ WordPress projects**, including theme customization and plugin development.  
+- Specialized in creating **high-performance, SEO-friendly websites** for various industries.  
+- Developed and optimized **WooCommerce stores**, ensuring seamless shopping experiences.  
+- Integrated **third-party APIs, custom widgets, and dynamic content** for advanced functionality.  
+- Focused on **speed optimization, security, and user experience enhancements**.
+
+---
 ### 🛍️ Shopify & WooCommerce Projects
 
 #### **1. Custom Shopify Theme Development**
-🔗 [GitHub Repository](#) | 📸 ![Screenshot](#)
+🔗 [Dj Finance](https://djfinance.co.uk/) | 🔗 [Rosalind Williams Fine Art](https://www.rosalindwilliamsfineart.com/) |</br>
+🔗 [The Little Hay Company](https://littlehayco.com/) | 🔗 [Curanutrition](https://curanutrition.com/)
 - Developed a **custom Shopify theme** with enhanced eCommerce features.
 - Integrated **dynamic pricing, cart updates, and checkout improvements**.
-
-#### **2. WooCommerce Custom Plugin**
-🔗 [GitHub Repository](#) | 📸 ![Screenshot](#)
-- Built a WooCommerce plugin to add **custom product options and bulk discounts**.
-- Enhanced user experience with **Ajax-based cart updates**.
-
-### 🌐 WordPress Development
-
-#### **3. Custom Elementor Widgets**
-🔗 [GitHub Repository](#) | 📸 ![Screenshot](#)
-- Developed **custom Elementor widgets** to enhance WordPress design capabilities.
-- Integrated dynamic content blocks for seamless customization.
-
-#### **4. Booking System Plugin**
-🔗 [GitHub Repository](#) | 📸 ![Screenshot](#)
-- Built a **WordPress booking system plugin** for online scheduling.
-- Integrated **email notifications, calendar sync, and user management**.
-
-### 📊 Web Applications & Utilities
-
-#### **5. WordPress API Integration for Dynamic Content**
-🔗 [GitHub Repository](#) | 📸 ![Screenshot](#)
-- Developed an API-powered **dynamic content loading system**.
-- Used **JavaScript & PHP** to fetch and display data dynamically.
-
-#### **6. Shopify Bulk Product Uploader**
-🔗 [GitHub Repository](#) | 📸 ![Screenshot](#)
-- Created a **bulk product uploader** for Shopify stores.
-- Utilized CSV parsing and **automated product import functionality**.
-
 ---
 
 ## 🤝 Connect with Me
