@@ -26,7 +26,7 @@ Results-driven Web Developer with over **3 years of experience** specializing in
 ---
 ### 🛍️ Shopify & WooCommerce Projects
 
-#### **1. Custom Shopify Theme Development**
+#### **1.Shopify Theme Development**
 🔗 [Dj Finance](https://djfinance.co.uk/) | 🔗 [Rosalind Williams Fine Art](https://www.rosalindwilliamsfineart.com/) |</br>
 🔗 [The Little Hay Company](https://littlehayco.com/) | 🔗 [Curanutrition](https://curanutrition.com/)
 - Developed a **custom Shopify theme** with enhanced eCommerce features.
